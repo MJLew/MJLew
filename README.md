@@ -27,10 +27,11 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MJLew&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
-    <!-- 
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJLew&theme=react&line_height=40&hide=css"/>
     </a>
+    <!-- 
+    
     
     <a href="https://github.com/MJLew"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJLew&theme=dracula&hide_border=true"  width="520" alt="MJLew"/></a>
     -->
