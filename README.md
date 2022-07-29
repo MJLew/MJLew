@@ -11,8 +11,8 @@
 </div>
 
 <h2>About me</h2>
-- 👀 I’m mainly interested in XR technologies, including both Virtual and Augmented Reality!<br>
-- 📝 My other areas of interest include Computer Graphics & Computer Vision.<br>
+- 👀 I’m mainly interested in XR technologies, including both Virtual & Augmented Reality!<br>
+- 📝 My other areas of interest include Computer Graphics, Computer Vision, and Machine Learning.<br>
 - 🌱 I’m currently learning how to develop in Unity and Unreal Engine to create XR applications.<br>
 - 💼 I have experience developing Web applications and Android apps as well!<br>
 <br>
