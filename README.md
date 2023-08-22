@@ -6,7 +6,7 @@
 <p><a href="mailto: michael.lew052@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/michael-lew-234a15173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-<p>Thanks for visiting my profile! I am currently a fresh Computer Science graduate.</p>
+<p>Thanks for visiting my profile! I am currently working as an XR Software Programmer.</p>
 <p>Feel free to contact me with any questions or requests to collaborate!</p>
 </div>
 
